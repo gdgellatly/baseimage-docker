@@ -1,5 +1,5 @@
-NAME = phusion/baseimage
-VERSION = 0.10.1
+NAME = unilynx/phusion-baseimage-1804
+VERSION = 1.0.0
 
 .PHONY: all build test tag_latest release ssh
 
